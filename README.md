@@ -1,4 +1,4 @@
-# Práctica 2 de laboratorio - API de Procesos #
+# Práctica 2 de laboratorio - API de Procesos - Sebastian Aristizabal y Alejandro Arias Ortiz #
 
 ## Instrucciones ##
 Antes de comenzar a trabajar en esta práctica se recomienda que lleve a cabo los siguientes pasos:
